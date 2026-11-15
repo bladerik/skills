@@ -1,0 +1,17 @@
+{
+  "name": "codingfry",
+  "owner": {
+    "name": "Lukas Gregor (Coding Fry)",
+    "url": "https://codingfry.sk"
+  },
+  "description": "Agent skills by Coding Fry for people who build with AI: engineering now, marketing next.",
+  "plugins": [
+    {
+      "name": "engineering",
+      "source": "./plugins/engineering",
+      "description": "Skills for building and shipping apps with AI. First up: a prelaunch security check.",
+      "category": "engineering",
+      "keywords": ["security", "vibe-coding", "prelaunch", "checklist", "owasp"]
+    }
+  ]
+}

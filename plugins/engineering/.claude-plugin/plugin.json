@@ -1,0 +1,13 @@
+{
+  "name": "engineering",
+  "version": "0.1.0",
+  "description": "Skills for building and shipping apps with AI. First up: a read-only, 16-point prelaunch security check.",
+  "author": {
+    "name": "Lukas Gregor (Coding Fry)",
+    "url": "https://codingfry.sk"
+  },
+  "homepage": "https://github.com/bladerik/skills",
+  "repository": "https://github.com/bladerik/skills",
+  "license": "MIT",
+  "keywords": ["security", "vibe-coding", "prelaunch", "checklist", "owasp"]
+}
